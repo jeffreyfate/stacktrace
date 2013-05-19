@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ExtraTranslation" severity="ignore" />
+    <issue id="IconColors">
+        <ignore path="res\drawable-hdpi\ic_launcher.png" />
+        <ignore path="res\drawable-hdpi\ic_launcher.png" />
+        <ignore path="res\drawable-mdpi\ic_launcher.png" />
+        <ignore path="res\drawable-mdpi\ic_launcher.png" />
+        <ignore path="res\drawable-xhdpi\ic_launcher.png" />
+        <ignore path="res\drawable-xhdpi\ic_launcher.png" />
+    </issue>
+</lint>
